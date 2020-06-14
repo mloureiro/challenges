@@ -1,0 +1,12 @@
+{
+  "name": "challenges",
+  "description": "challenges solutions for HackerRank and similar others",
+  "devDependencies": {
+    "prettier": "^2.0.2"
+  },
+  "scripts": {
+    "lint:fix": "prettier --write \"src/**/*.+(js|jsx|json|css|md)\" --config .prettier.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
